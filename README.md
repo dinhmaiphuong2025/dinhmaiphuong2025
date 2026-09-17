@@ -26,15 +26,10 @@ I save small experiments, configs, and things I tinker with here. Mostly for mys
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dinhmaiphuong2025&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=888888" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhmaiphuong2025&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=888888" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dinhmaiphuong2025&theme=transparent&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=dinhmaiphuong2025&hide_border=true" alt="streak" />
 </p>
 
 ---
